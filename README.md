@@ -1,36 +1,14 @@
 <a name="readme-top"></a>
-# HelloWorld
-Author: Gerhard Jarz <br>
+# Vererbung
+Author: Greimel David <br>
 LBS Eibiswald | 2aAPC
 
-Nur eine Demo Anwendung...<br>
-Hier könnte die Anwendung erklärt werden...
+Das hier ein Projekt über Java Vererbung...<br>
+Es sind UML Diagramme in Code form
 
-## Installation
+## Was ist das Programm
+Es gibt die Basis Klasse Person mit der Unterklasse Employee...
 
-```cmd
-
-git checkout origin/master
-
-```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Verwendung
-Technologien im Einsatz:
-[![Java][java.com]][java-url]
-
-```php
-
-//some source code configuration
-
-```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Screenshots
-
-[![Screen Shot][product-screenshot]](https://example.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
 
